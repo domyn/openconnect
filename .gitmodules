@@ -1,0 +1,18 @@
+[submodule "android/sources/libxml2"]
+	path = android/sources/libxml2
+	url = https://github.com/GNOME/libxml2.git
+[submodule "android/sources/nettle"]
+	path = android/sources/nettle
+	url = https://github.com/gnutls/nettle.git
+[submodule "android/sources/gnutls"]
+	path = android/sources/gnutls
+	url = https://github.com/gnutls/gnutls.git
+[submodule "android/sources/stoken"]
+	path = android/sources/stoken
+	url = https://github.com/stoken-dev/stoken.git
+[submodule "android/sources/libgmp"]
+	path = android/sources/libgmp
+	url = https://github.com/domyn/libgmp.git
+[submodule "android/sources/lz4"]
+	path = android/sources/lz4
+	url = https://github.com/lz4/lz4.git
